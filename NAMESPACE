@@ -1,0 +1,7 @@
+export(calcWiiliams)
+export(gCriticalval)
+export(MLE_Williams)
+export(powWilliams)
+export(qWilliamTbar)
+export(simNull)
+export(simTbar)
