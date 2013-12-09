@@ -1,5 +1,6 @@
-export(calcWiiliams)
+export(calcWilliams)
 export(gCriticalval)
+export(interpWilliamTable)
 export(MLE_Williams)
 export(powWilliams)
 export(qWilliamTbar)
